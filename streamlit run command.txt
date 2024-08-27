@@ -1,0 +1,2 @@
+streamlit run "C:\Users\Hp\Desktop\python\ML PROJECT\NEWONE.py"
+
